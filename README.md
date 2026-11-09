@@ -1,2 +1,2 @@
 # info
-basic knowledge
+basic knowledge always remember.
